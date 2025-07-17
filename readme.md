@@ -22,7 +22,7 @@ It allows users to **increment**, **decrement**, and **reset** the counter with 
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png) 
+![App Screenshot](Screenshot.png) 
 
 ---
 

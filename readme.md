@@ -27,7 +27,7 @@ It allows users to **increment**, **decrement**, and **reset** the counter with 
 ---
 
 ## 🚀 Live Demo
-[Click Here to View the App](https://jaskaransingh2121.github.io/counter-app/)  
+[Click Here to View the App](https://num-counter-app.netlify.app/)  
 
 ---
 
